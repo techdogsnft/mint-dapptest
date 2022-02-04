@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb6d12af1881a5def5ef361686e2b1c1a4dfaba77",
+  "SCAN_LINK": "https://snowtrace.io/address/0xb6d12af1881a5def5ef361686e2b1c1a4dfaba77",
+  "NETWORK": {
+    "NAME": "Avalanche Network",
+    "SYMBOL": "AVAX",
+    "ID": 43114
+  },
+  "NFT_NAME": "TEST",
+  "SYMBOL": "test",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTRADE",
+  "MARKETPLACE_LINK": "https://nftrade.com/assets/avalanche/0xb6d12af1881a5def5ef361686e2b1c1a4dfaba77",
+  "SHOW_BACKGROUND": true
+}
